@@ -9,4 +9,5 @@ This project demonstrates basic Git version control operations:
 - Simulating and resolving merge conflicts  
 - Collaborating with other contributors  
 
-Version: Base version
+Version: Main branch version
+
