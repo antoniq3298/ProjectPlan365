@@ -9,5 +9,10 @@ This project demonstrates basic Git version control operations:
 - Simulating and resolving merge conflicts  
 - Collaborating with other contributors  
 
+<<<<<<< HEAD
 Version: Main branch version
+=======
+Version: Feature branch version
+>>>>>>> feature/conflict-2
+Version: Final merged version
 
